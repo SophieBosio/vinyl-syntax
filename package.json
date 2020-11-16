@@ -1,0 +1,19 @@
+{
+  "name": "vinyl-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A bright but soft theme for easy-on-the-eyes editing with clear colour separation.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "soft",
+    "bright",
+    "clear"
+  ],
+  "repository": "https://github.com/SophieBosio/vinyl-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
